@@ -64,3 +64,10 @@
 * `Esc` Return to editor window from a tool window
 * `Shift + Esc` Hide active or last active tool window
 * `Control + G` Go to line number
+
+### Configure Custom Keymaps
+
+We can modified keymap
+click File > Settings > Keymap (on Mac, File > Properties > Keymap)
+
+<img src="./image/androidcustomkeymap.png"/>
