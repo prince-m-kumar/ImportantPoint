@@ -70,4 +70,4 @@
 We can modified keymap
 click File > Settings > Keymap (on Mac, File > Properties > Keymap)
 
-<img src="./image/androidcustomkeymap.png"/>
+<img src="../image/androidcustomkeymap.png"/>
