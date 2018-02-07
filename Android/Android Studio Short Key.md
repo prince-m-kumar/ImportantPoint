@@ -33,3 +33,34 @@
 * `Control + Alt + I` Auto-indent lines
 * `Shift + Tab` Indent/unindent lines
 * `Control + Shift + J` Smart line join
+
+### Build and Run
+* `Control + F9` Build
+* `Shift + F10` Build and run
+* `Control + F10` Apply changes (with Instant Run)
+
+### Refactoring
+* `F5` Copy
+* `F6` Move
+* `Alt + Delete` Safe Delete
+* `F6` Move
+* `Shift + F6` Rename
+* `Control + F6` Change signature
+
+### Navigating and Searching Within Studio
+* `Press Shift twice` Search everything (including code and menus)
+* `Control + F` Find
+* `F3` Find next
+* `Shift + F3` Find previous
+* `Control + R` Replace
+* `Control + F6` Change signature
+* `Control + N` Find class
+* `Control + Shift + F` Find in path
+* `Control + Shift + N` Find file (instead of class)
+* `Alt + Right/Left Arrow` Navigate between open editor tabs
+* `F4 / Control + Enter` Jump to source
+* `Control + Shift + Backspace` Go to last edit location
+* `Control + F4` Close active editor tab
+* `Esc` Return to editor window from a tool window
+* `Shift + Esc` Hide active or last active tool window
+* `Control + G` Go to line number
