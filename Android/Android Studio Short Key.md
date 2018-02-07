@@ -27,9 +27,9 @@
 * `Control + Shift + /` Comment/uncomment with block comment
 * `Control + [` Move to code block start
 * `Control + ]` Move to code block end
-* `Control + [` Move to code block start
-* `Control + ]` Move to code block end
-
-
-Select to the code block start	Control + Shift + [	Option + Command + Shift + [
-Select to the code block end	Control + Shift + ]	Option + Command + Shift + ]
+* `Control + Shift + [` Select to the code block start
+* `Control + Shift + ]` Select to the code block end
+* `Control + Alt + L` Reformat code
+* `Control + Alt + I` Auto-indent lines
+* `Shift + Tab` Indent/unindent lines
+* `Control + Shift + J` Smart line join
