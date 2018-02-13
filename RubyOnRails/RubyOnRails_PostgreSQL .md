@@ -16,8 +16,10 @@ We are using `rbenv` for installation of Ruby on Rails.
   `$ echo 'export PATH="$HOME/.rbenv/bin:$PATH"' >> ~/.bashrc` <br>
   `$ echo 'eval "$(rbenv init -)"' >> ~/.bashrc `
 
-  For cross check we check in `~/.bashrc` file
+  For cross check we check in `~/.bashrc` file   
+  
   <img src="../image/bashrc.png"/>
+  
 3. Update source file  
   `$ source ~/.bashrc`  
 After update source file we can use rbenv utility
@@ -31,12 +33,15 @@ After update source file we can use rbenv utility
  `rbenv install -l `   
  output:-  
  <img src="../image/versionlist.png"/>
-2.  We'll now install a particular version of Ruby. like install Ruby version 2.3.1, and once it's done installing, we can set it as our default version with the global sub-command:  
+2.  We'll now install a particular version of Ruby. like install Ruby version 2.3.1, and once it's done installing, we can set it as our default version with the global sub-command: 
+
 `$ rbenv install 2.3.1`   
-`$ rbenv global 2.3.1
-`
+`$ rbenv global 2.3.1`
+
 3. Verify that Ruby was properly installed by checking your version number:
+
 `ruby -v`   
+
 output:-  
 <img src="../image/rubyversion.png"/>
 
@@ -53,7 +58,8 @@ output:-
 Update the gem version and check it:   
 ` $ gem update --system`  
 ` $ gem -v`   
-output:- <img src="../image/gemupdate.png"/>
+output:-
+<img src="../image/gemupdate.png"/>
 <img src="../image/gemversion.png"/>
 
 2. This is optional, you can disable to install the documentation on every gem installation by adding a new line to the `.gemrc` file below.  
